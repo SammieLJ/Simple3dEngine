@@ -6,9 +6,9 @@ Created a simple 3D engine in C# using OpenGL via OpenTK. It showcases:
 - Compute Bézier surfaces
 - Render the generated 3D model
 
-|**Key Bindings Summary**|
+**Key Bindings Summary**
+| Key | Action |
 | --- | --- |
-| **Key | **Action |
 | Up Arrow	| Rotate around X-axis (pitch up) |
 | Down Arrow	| Rotate around X-axis (pitch down) |
 | Left Arrow	| Rotate around Y-axis (yaw left) |
