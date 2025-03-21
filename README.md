@@ -7,7 +7,7 @@ Created a simple 3D engine in C# using OpenGL via OpenTK. It showcases:
 - Render the generated 3D model
 
 |**Key Bindings Summary**|
-|--|--|
+| --- | --- |
 | **Key | **Action |
 | Up Arrow	| Rotate around X-axis (pitch up) |
 | Down Arrow	| Rotate around X-axis (pitch down) |
@@ -20,6 +20,5 @@ Created a simple 3D engine in C# using OpenGL via OpenTK. It showcases:
 | U	| Rotate around Z-axis (roll left) |
 | O	| Rotate around Z-axis (roll right) |
 | W	| Toggle wireframe mode |
-|--|--|
 
 The rotation angles (pitch, yaw, roll) are updated based on key presses.
